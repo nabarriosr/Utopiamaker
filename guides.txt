@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=uaK1-AnsauY
+https://hyperledger-fabric.readthedocs.io/en/latest/smartcontract/smartcontract.html
